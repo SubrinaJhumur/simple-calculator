@@ -49,8 +49,11 @@ button:hover{
 }
 
 .result{
-    font-size: 30px;
-    padding: 25px;
+    font-size: 40px;
+    /* padding: 25px; */
+    padding-bottom: 10px;
+    padding-right: 25px;
+    /* margin-bottom: 10px; */
 }
 
 @keyframes big{
